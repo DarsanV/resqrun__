@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607127368219",
+    "project_id": "resqrun-1f0dd",
+    "storage_bucket": "resqrun-1f0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607127368219:android:42e2a5ec1291010ac6febe",
+        "android_client_info": {
+          "package_name": "com.example.resqrun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLN_3m0bKvdM1k5mKCUU_LmN1-ZZkTnGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
