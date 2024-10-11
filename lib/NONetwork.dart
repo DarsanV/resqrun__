@@ -130,7 +130,7 @@ class _NoNetworkScreenState extends State<NoNetworkScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'No Network ??',
+                'No Network ???',
                 style: TextStyle(
                   fontSize: 24,
                   color: Colors.white,
